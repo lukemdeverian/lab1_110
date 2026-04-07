@@ -3,7 +3,9 @@
 # Luke's User Page
 Welcome to my personal GitHub User Page! 
 [Click for a funny video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 [Link to projects](#my-projects)
+
 [Click for readme](README.md)
 
 ---
