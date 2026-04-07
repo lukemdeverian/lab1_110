@@ -1,7 +1,8 @@
 ![seal](https://www.datocms-assets.com/117510/1722376082-02_03_01_01_im1.jpg)
 
 # Luke's User Page
-Welcome to my personal GitHub User Page! 
+Welcome to my personal GitHub User Page!
+
 [Click for a funny video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [Link to projects](#my-projects)
